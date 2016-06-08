@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/harrifeng/leet-in-js/issues"
   },
-  "homepage": "https://github.com/harrifeng/leet-in-js#readme"
+  "homepage": "https://github.com/harrifeng/leet-in-js#readme",
+  "devDependencies": {
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
 }
