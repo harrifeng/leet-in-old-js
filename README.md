@@ -6,6 +6,7 @@ LeetCode in js
 + npm install karma --save-dev
 + npm install karma-jasmine karma-chrome-launcher --save-dev
 + npm install -g karma-cli
++ npm install jasmine-core
 + karma init karma.conf.js
 ```
 $ karma init karma.conf.js
@@ -44,3 +45,4 @@ Do you want Karma to watch all the files and run the tests on change ?
 Press tab to list possible options.
 > yes
 ```
++ karma start karma.conf.js
